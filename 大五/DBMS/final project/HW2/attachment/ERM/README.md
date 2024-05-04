@@ -16,3 +16,5 @@ https://online.visual-paradigm.com/drive/#diagramlist:proj=0&dashboard
 
 2. Also available at Github.
 
+https://github.com/40843245/nfu/tree/main/%E5%A4%A7%E4%BA%94/DBMS/final%20project/HW2/attachment/ERM
+
