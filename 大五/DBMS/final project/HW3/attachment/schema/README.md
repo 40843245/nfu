@@ -4,9 +4,11 @@ The schema of the database refers all tables' structure in specific database.
 ## NOTICE
 Since I have developed a project with mongodb compress (a kind of non-relational DBMS), 
 
-for newest info, I just have collections (in mongodb, which is a similar to schema in relational DBMS (such as SQL) a little bit), 
+for newest info, I just have newest collections (in mongodb, which is a similar to schema in relational DBMS (such as SQL) a little bit)
 
-I don't have newest schema, which is stored at this directory. 
+which is stored at this directory. 
+
+I don't have newest schema.
 
 I only have an older schema, which is placed in older HW (HW2), which is also stored at Github.
 
