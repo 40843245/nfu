@@ -11,4 +11,3 @@ CREATE TABLE form(
 
 INSERT INTO form(`form_no`,`username`,`id_card`,`spouse_no`,`gross_consolidated_income`,`exemptions`,`deductions`) VALUES (1,'username1','N126537175',2,1,0,0);
 INSERT INTO form(`form_no`,`username`,`id_card`,`spouse_no`,`gross_consolidated_income`,`exemptions`,`deductions`) VALUES (2,'username2','A169825673',2,1,0,0);
-INSERT INTO form(`form_no`,`username`,`id_card`,`spouse_no`,`gross_consolidated_income`,`exemptions`,`deductions`) VALUES (3,'username3','A169825673',2,1,0,0);

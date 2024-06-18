@@ -1,5 +1,5 @@
 CREATE TABLE user_type_mapping(
-	username VARCHAR(20) NOT NULL UNIQUE
+	username VARCHAR(20) NOT NULL UNIQUE,
 	priv_no INT(1) NOT NULL,
 	FOREIGN KEY (username) REFERENCES account_list(username) ON UPDATE CASCADE ON DELETE CASCADE,
 	FOREIGN KEY (priv_no) REFERENCES priv_mapping(priv_no) ON UPDATE CASCADE ON DELETE CASCADE

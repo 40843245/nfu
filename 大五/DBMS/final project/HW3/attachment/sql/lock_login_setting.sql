@@ -4,4 +4,4 @@ CREATE TABLE lock_login_setting(
 	max_consecutive_failed_login_locking_time INT NOT NULL
 );
 
-INSERT INTO priv_mapping(`max_consecutive_failed_login`,`max_consecutive_failed_login_locking_time`) VALUES (5,20);
+INSERT INTO lock_login_setting(`max_consecutive_failed_login`,`max_consecutive_failed_login_locking_time`) VALUES (5,20);

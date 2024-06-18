@@ -1,0 +1,2 @@
+CREATE DATABASE tax;
+USE tax;
